@@ -76,11 +76,11 @@ networking
    python3 app.py
    ```  
 4. **Verify public access**:  
-   - In browser: `http://<PUBLIC_IP>:5003`  
+   - In browser: `http://48.221.122.79:5003`  
    - Take screenshot of the page loading.  
 
 ### 5. Public IP Access
-URL: http://XX.XX.XXX.XXX:5003  
+URL: http://48.221.122.79:5003/ 
 [screenshot]
 
 ### 6. (Bonus) Domain Name
