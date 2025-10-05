@@ -38,6 +38,30 @@ networking
 
 ### 4. Flask App Running
 [screenshot of terminal + browser]
+1. **Copy the Flask template**:  
+   ```bash
+   git clone https://github.com/hantswilliams/HHA-504-2025-FlaskStarter.git
+   cd flask_template
+   ```  
+    Create new virutal environment: 
+    ```
+    python3 -m venv venv
+    ```
+    Then activate virtual environment:
+    ```
+    source venv/bin/activate
+    ```
+    Install: 
+    ```
+    pip install requirements.txt
+    ``` 
+2. **Run the app on port 5003**:  
+   ```bash
+   python3 app.py
+   ```  
+3. **Verify public access**:  
+   - In browser: `http://<PUBLIC_IP>:5003`  
+   - Take screenshot of the page loading.  
 
 ### 5. Public IP Access
 URL: http://XX.XX.XXX.XXX:5003  
