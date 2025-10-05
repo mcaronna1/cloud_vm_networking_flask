@@ -42,24 +42,40 @@ networking
    ```bash
    git clone https://github.com/hantswilliams/HHA-504-2025-FlaskStarter.git
    cd flask_template
-   ```  
+   ```
+    Change directory:
+   ```
+   cd HHA-504-2025-flaskstarter
+    ```   
     Create new virutal environment: 
     ```
     python3 -m venv venv
     ```
-    Then activate virtual environment:
+    If that didnt go and create add:
+    ```
+    sudo apt install python3.12
+    ```
+   Go back and copy the virtual enironment again:
+   ```
+    python3 -m venv venv
+    ```
+   Type in terminal to see if all list of files are loaded:
+    ```
+    ls -l
+     ```
+     Then activate virtual environment:
     ```
     source venv/bin/activate
     ```
     Install: 
     ```
-    pip install requirements.txt
+    pip install -r requirements.txt
     ``` 
-2. **Run the app on port 5003**:  
+3. **Run the app on port 5003**:  
    ```bash
    python3 app.py
    ```  
-3. **Verify public access**:  
+4. **Verify public access**:  
    - In browser: `http://<PUBLIC_IP>:5003`  
    - Take screenshot of the page loading.  
 
