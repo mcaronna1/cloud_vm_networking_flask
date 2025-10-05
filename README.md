@@ -4,7 +4,7 @@ networking
 
 ## Student Info
 - Name:  Mairsa Caronna
-- Cloud Provider:  
+- Cloud Provider: Azure 
 
 ## Video recording: 
 - Zoom/Loom: [https://www.loom.com/share/5e43c5fcf2734ff492db14afdb2a87e8?sid=4e6cfb91-edb2-452d-b501-c81938b4f6da] 
