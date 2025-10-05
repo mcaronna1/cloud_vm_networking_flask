@@ -25,6 +25,16 @@ networking
 
 ### 3. OS Update + Python Install
 [commands + screenshot]
+### Part B — Environment Configuration
+1. **SSH into your VM** (cloud console or terminal).  
+2. **Update OS**:  
+   ```bash
+   sudo apt update && sudo apt upgrade -y
+   ```  
+3. **Install Git, Python 3 + pip**:
+   ```bash
+      sudo apt install python3 python3-pip git -y
+    ```    
 
 ### 4. Flask App Running
 [screenshot of terminal + browser]
