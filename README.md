@@ -12,8 +12,15 @@ networking
 ## Steps
 ### 1. VM Creation
 [screenshot]
+### Part A — VM Setup
+1. **Create a VM** on your chosen provider:  
+   - Smallest/free-tier size  
+   - Ubuntu LTS image  
+   - Public IP assigned  
 
-### 2. Networking (Port 5003 Open)
+2. **Open port 5003**:  
+   - Add a firewall/security group rule to allow inbound TCP traffic on **5003**.  
+   - Verify rule is active.  ### 2. Networking (Port 5003 Open)
 [screenshot]
 
 ### 3. OS Update + Python Install
