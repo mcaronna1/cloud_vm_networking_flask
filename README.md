@@ -45,6 +45,7 @@ networking
 [FlaskTerminal](images/flaskapprunninginterminal.png)
 
 [FlaskTerminalbrowser](images/1stbrowser.png)
+
 **Copy the Flask template**:  
    ```bash
    git clone https://github.com/hantswilliams/HHA-504-2025-FlaskStarter.git
