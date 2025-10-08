@@ -11,7 +11,7 @@ networking
 
 ## Steps
 ### 1. VM Creation
-[creatingvm](images/creatingvm.png)
+[Creatingvm](images/creatingvm.png)
 ### Part A — VM Setup
 1. **Create a VM** on your chosen provider:  
    - Smallest/free-tier size  
@@ -25,6 +25,7 @@ networking
 [Networking](images/networkingsetting_inbound.png)
 
 ### 3. OS Update + Python Install
+[OS Update](images/osupdate.png)
 [commands + screenshot]
 ### Part B — Environment Configuration
 1. **SSH into your VM** (cloud console or terminal).  
