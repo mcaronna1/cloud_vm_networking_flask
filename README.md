@@ -42,7 +42,7 @@ networking
     ```    
 
 ### 4. Flask App Running
-[Terminal](images/flaskapprunningterminal.png)
+[Terminal](images/flaskapprunninginterminal.png)
 [screenshot of terminal + browser]
 1. **Copy the Flask template**:  
    ```bash
