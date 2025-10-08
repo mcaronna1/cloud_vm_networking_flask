@@ -11,7 +11,7 @@ networking
 
 ## Steps
 ### 1. VM Creation
-[screenshot]
+[[creatingvm](creatingvm.png)]
 ### Part A — VM Setup
 1. **Create a VM** on your chosen provider:  
    - Smallest/free-tier size  
