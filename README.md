@@ -20,8 +20,9 @@ networking
 
 2. **Open port 5003**:  
    - Add a firewall/security group rule to allow inbound TCP traffic on **5003**.  
-   - Verify rule is active.  ### 2. Networking (Port 5003 Open)
-[screenshot]
+   - Verify rule is active.
+   - ### 2. Networking (Port 5003 Open)
+[Networking](images/networkingsetting_inbound.png)
 
 ### 3. OS Update + Python Install
 [commands + screenshot]
