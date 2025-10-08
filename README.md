@@ -85,11 +85,12 @@ networking
    ```  
 4. **Verify public access**:  
    - In browser: `http://48.221.122.79:5003`  
-   - [Public loading](images/broswer.png)  
+   - [Publicloading](images/broswer.png)  
 
 ### 5. Public IP Access
 URL: http://48.221.122.79:5003/ 
 [Http](images/httpbroswer.png)  
+
 ### 6. (Bonus) Domain Name
 Domain: http://mydomain.tech:5003  
 [screenshot]
