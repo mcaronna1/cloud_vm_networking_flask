@@ -25,10 +25,13 @@ networking
 [Networking](images/networkingsetting_inbound.png)
 
 ### 3. OS Update + Python Install
-[OS Update](images/osupdate.png)
-[commands + screenshot]
+
+[OS Update](images/osupdate.png) 
+
+[Python Install](images/pythoninstall.png)
+
 ### Part B — Environment Configuration
-1. **SSH into your VM** (cloud console or terminal).  
+1. **SSH into your VM** (terminal).  
 2. **Update OS**:  
    ```bash
    sudo apt update && sudo apt upgrade -y
@@ -39,6 +42,7 @@ networking
     ```    
 
 ### 4. Flask App Running
+[Terminal](images/flaskapprunningterminal.png)
 [screenshot of terminal + browser]
 1. **Copy the Flask template**:  
    ```bash
